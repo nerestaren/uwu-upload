@@ -9,7 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "adm-zip": "^0.5.10"
+    "adm-zip": "^0.5.10",
+    "xmlhttprequest": "github:nerestaren/node-XMLHttpRequest"
   },
   "devDependencies": {
     "esbuild": "^0.19.5",
